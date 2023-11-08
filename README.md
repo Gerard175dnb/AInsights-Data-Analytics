@@ -67,8 +67,8 @@ En este contexto, un ente regulador de operadoras de internet nos encarga la rea
 
 # <font color='lightgreen'>***Análisis exploratorio de datos[EDA]***</font>
 
-![Descripción de la imagen](PI_DA\Datos\ImágenesEDA-PowerBI\accesos_100_hogares.png)
-![Descripción de la imagen](PI_DA\Datos\ImágenesEDA-PowerBI\Accesos_a_lo_largo_de_los_años.png)
+![Descripción de la imagen](https://github.com/Gerard175dnb/AInsights_PIDA/blob/main/Im%C3%A1genes/Im%C3%A1genesEDA-PowerBI/accesos_100_hogares.png?raw=true)
+![Descripción de la imagen](https://github.com/Gerard175dnb/AInsights_PIDA/blob/main/Im%C3%A1genes/Im%C3%A1genesEDA-PowerBI/Accesos_a_lo_largo_de_los_a%C3%B1os.png?raw=true)
 
 
 ## <font color='Orange'>***Principales Observaciones a tener en cuenta:***</font>
@@ -89,7 +89,7 @@ Es esencial recordar que este gráfico es una herramienta valiosa para la identi
 
 
 # <font color='Lightgreen'>*Conexiones a internet por provincia*</font>
-![Descripción de la imagen](PI_DA\Datos\ImágenesEDA-PowerBI\accesos_a_lo_largo_de_los_años_prov.png)
+![Descripción de la imagen](https://github.com/Gerard175dnb/AInsights_PIDA/blob/main/Im%C3%A1genes/Im%C3%A1genesEDA-PowerBI/accesos_a_lo_largo_de_los_a%C3%B1os_prov.png?raw=true)
 
 
 
@@ -120,8 +120,8 @@ En resumen, este gráfico proporciona una representación visual efectiva de la 
 # ***<font color='lightgreen'>Gráficos evolutivos de Acceso a Banda Ancha Fija por Provincias:</font>***
 
 
-![Descripción de la imagen](PI_DA\Datos\ImágenesEDA-PowerBI\Banda_ancha_por_provincia.png)
-![Descripción de la imagen](PI_DA\Datos\ImágenesEDA-PowerBI\Evolucion_banda_ancha_provincias.png)
+![Descripción de la imagen](https://github.com/Gerard175dnb/AInsights_PIDA/blob/main/Im%C3%A1genes/Im%C3%A1genesEDA-PowerBI/Banda_ancha_por_provincia.png?raw=true)
+![Descripción de la imagen](https://github.com/Gerard175dnb/AInsights_PIDA/blob/main/Im%C3%A1genes/Im%C3%A1genesEDA-PowerBI/Evolucion_banda_ancha_provincias.png?raw=true)
 
 Dentro de los gráficos que representan el "Acceso a Banda Ancha Fija por Provincia"(gráficos superiores), se muestra una comparación de la cantidad de accesos a Internet a través de la tecnología de "Banda Ancha Fija" en diferentes provincias. Cada barra horizontal corresponde a una provincia específica, y su largo representa el número de accesos de Banda Ancha Fija en esa provincia.
 
@@ -136,7 +136,7 @@ Ambos gráficos proporcionan una representación visual de la distribución de a
 
 # ***<font color='lightgreen'>Migración de Dial Up a otras tecnologías:</font>***
  
-![Descripción de la imagen](PI_DA\Datos\ImágenesEDA-PowerBI\evolucion_dial_up.png)
+![Descripción de la imagen](https://github.com/Gerard175dnb/AInsights_PIDA/blob/main/Im%C3%A1genes/Im%C3%A1genesEDA-PowerBI/evolucion_dial_up.png?raw=true)
 
 **<font color='lightgreen'>Observación:</font>** *Podemos notar en el gráfico que se observa arriba, la evolución, o "migración" de las provincias respecto al dial up y las nuevas tecnologías a lo largo de los años,pero...***¿A qué se debe ésto?.**
 
@@ -156,14 +156,14 @@ Aunque las conexiones dial-up fueron ampliamente utilizadas en su momento, han s
 
  ## ***La siguiente imagen tiene como objetivo contextualizar lo anteriormente mencionado para nuestro gráfico:***
 
-![Descripción de la imagen](PI_DA\Datos\ImágenesEDA-PowerBI\Archivo_Enacom.png)
+![Descripción de la imagen](https://github.com/Gerard175dnb/AInsights_PIDA/blob/main/Im%C3%A1genes/Im%C3%A1genesEDA-PowerBI/Archivo_Enacom.png?raw=true)
 
 
 
 # <font color='lightgreen'>***Accesos por Tecnología a lo largo de los años***</font>
 
-![Descripción de la imagen](PI_DA\Datos\ImágenesEDA-PowerBI\evolucion_diferentes_tec.png)
-![Descripción de la imagen](PI_DA\Datos\ImágenesEDA-PowerBI\Acceso_tecnologias.png)
+![Descripción de la imagen](https://github.com/Gerard175dnb/AInsights_PIDA/blob/main/Im%C3%A1genes/Im%C3%A1genesEDA-PowerBI/evolucion_diferentes_tec.png?raw=true)
+![Descripción de la imagen](https://github.com/Gerard175dnb/AInsights_PIDA/blob/main/Im%C3%A1genes/Im%C3%A1genesEDA-PowerBI/Acceso_tecnologias.png?raw=true)
 
 En el siguiente gráfico de líneas y de barras, podemos notar una evolución constante en búsqueda y establecimiento de nuevas tecnologías, las más utilizadas en éstos dias son "Cablemodem" y "Fibra óptica" siendo éstas las más rapidas a la hora de establecer una correcta conectividad para el usuario, en la sección "Otros", logramos detectar una pendiente negativa, la cual nos indica que tecnologías como "Dial up" por ejemplo, entraron en desuso a partir del 2016, decayendo fuertemente luego de 2018, junto con quizá otras tecnologías igual de obsoletas, las tecnologías como ADSL y Wireless no han tenido mucha evolución positiva o negativa hasta el momento, lo cual implicaría una revisión acerca de éstas tecnologías.
 
@@ -171,7 +171,7 @@ Como es de público conocimiento, la tecnología avanza a pasos agigantados, cad
 
 
 # <font color='lightgreen'>***Evolución de ingresos de diferentes operadores de red a lo largo de los años:***</font>
-![Descripción de la imagen](PI_DA\Datos\ImágenesEDA-PowerBI\Evolucion_ingresos.png)
+![Descripción de la imagen](https://github.com/Gerard175dnb/AInsights_PIDA/blob/main/Im%C3%A1genes/Im%C3%A1genesEDA-PowerBI/Evolucion_ingresos.png?raw=true)
 
 El gráfico muestra la evolución de los ingresos (en miles de pesos) por trimestre a lo largo del tiempo. Los datos se presentan como una serie temporal, con los trimestres en el eje x y los ingresos en el eje y.
 
@@ -190,35 +190,5 @@ Otro de los datos a añadir es la eficiente y rápida transformación de la tecn
 
 *En conjunto*, estos gráficos indican un progreso continuo en la infraestructura de Internet y en la adopción de tecnologías más avanzadas en Argentina a partir de 2019. Esto puede tener un impacto positivo en el acceso a la información, la comunicación y el desarrollo económico en el país. Es importante seguir monitoreando estas tendencias para garantizar que la conectividad a Internet siga siendo accesible y eficiente para todos los ciudadanos.
 
-
-# Informe de Análisis en Power BI
-
-En este informe, describiré los pasos que seguí en Power BI para crear gráficos comparativos que muestran la cantidad de accesos a Internet cada 100 hogares por provincia. El objetivo de este análisis es identificar las diferencias en la disponibilidad de Internet en las diferentes provincias.
-
-
-
-## Paso 1: Importación de Datos
-
-El primer paso fue importar los datos relevantes a Power BI. Los datos utilizados para este análisis incluyen información sobre la cantidad de accesos a Internet y la provincia correspondiente.
-
-## Paso 2: Limpieza de Datos
-
-Realicé la limpieza de datos para asegurarme de que los datos estuvieran completos y sin valores nulos. También verifiqué que los tipos de datos fueran apropiados para el análisis.
-
-## Paso 3: Transformación de Datos
-
-Realicé transformaciones en los datos para calcular la cantidad de accesos a Internet cada 100 hogares. Esto involucró dividir el número de accesos a Internet por el número total de hogares en cada provincia y multiplicar por 100.
-
-## Paso 4: Creación de Gráficos
-
-Para visualizar los resultados, creé gráficos comparativos. Utilicé gráficos de barras para representar la cantidad de accesos a Internet cada 100 hogares en cada provincia. Además, coloreé las barras para resaltar las diferencias entre las provincias.
-
-## Paso 5: Análisis de Resultados
-
-Al analizar los gráficos comparativos, pude identificar las provincias con la mayor y la menor cantidad de accesos a Internet cada 100 hogares. También observé las tendencias generales en la disponibilidad de Internet en las provincias.
-
-## Conclusión
-
-En este informe, se describieron los pasos seguidos en Power BI para analizar y visualizar la cantidad de accesos a Internet cada 100 hogares por provincia. Los gráficos comparativos proporcionan información valiosa sobre las diferencias en la disponibilidad de Internet en las diferentes regiones. Este análisis puede ser útil para la toma de decisiones y la asignación de recursos en el ámbito de la conectividad en hogares.
 
 ¡Gracias por leer este informe!
