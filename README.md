@@ -195,4 +195,51 @@ Otro de los datos a añadir es la eficiente y rápida transformación de la tecn
 ![Descripción de la imagen](https://github.com/Gerard175dnb/AInsights_PIDA/blob/main/Im%C3%A1genes/fotosENACOM/24mar2020.png?raw=true)
 ![Descripción de la imagen](https://github.com/Gerard175dnb/AInsights_PIDA/blob/main/Im%C3%A1genes/fotosENACOM/Comparativo20_21.jpg?raw=true)
 
+
+# <font color='lightgreen'>***Informe de análisis en powerBi***</font>
+En este informe, describiré los pasos que seguí en Power BI para crear gráficos comparativos que muestran la cantidad de accesos a Internet cada 100 hogares por provincia. El objetivo de este análisis es identificar las diferencias en la disponibilidad de Internet en las diferentes provincias.
+
+
+# <font color='lightgreen'>***KPI número 1 solicitado(incremento del 2% de accesos por hogar por trimestre)***</font>
+Para el siguiente KPI, nos solicitan realizar una comparativa de trimestres (trimestre actual vs trimestre siguiente) en la cual debemos denotar un incremento del 2% en el siguiente trimestre, basándonos en los accesos cada 100 hogares, la fórmula realizada es la siguiente:
+
+##  <font color='cyan'>***Calendario***</font>
+
+Realicé una nueva medida aparte llamada calendario (date) con la cual puedo enlazar los primedios de mis KPI por fecha(año,trimestre,mes,etc)
+*Calendario = CALENDAR(DATE(2014,1,1),DATE(2022, 12, 31))*
+## <font color='cyan'>***Fecha***</font>
+Se realizó una medida en la cual especificamos las fechas en base a los trimestres, mes 9 corresponde al trimestre 3, mes 12 al trimestre 4 y así sucesivamente.
+
+## <font color='cyan'>***Acceso actual(trimestre seleccionado)***</font>
+Realizamos la medida "Nuevo acceso = AVERAGE(Acceso_hogares[Accesos por cada 100 hogares])" la cual tomará un promedio entre los accesos
+## <font color='cyan'>***Acceso anterior***</font>
+Realizamos la medida "Acceso anterior = CALCULATE([Nuevo acceso],PREVIOUSQUARTER(calendario[Date]))" la cual tomará en comparativa el trimestre seleccionado con el trimestre anterior, logrando asi observar el índice de rendimiento
+
+## <font color='cyan'>***Objetivo***</font>
+Realizamos la medida objetivo, la cual es : "KPIobjetivo = ([Nuevo acceso]/[Acceso anterior]) - 1", logrando obtener el promedio de nuestro indice de rendimiento
+
+## <font color='cyan'>***Destino***</font>
+Realizamos la medida destino, la cual es "Destino = 0.02" para mostrar el rendimiento del 2% sobre la comparativa de trimestres, esperando observar graficamente si se cumple o no con lo solicitado 
+
+
+# <font color='lightgreen'>***KPI número 2***</font>
+
+Para el KPI que creé, investigué las tablas armadas y observé que podría ser viable un aumento del 15% en el acceso a la tecnologia "fibra optica" anual, lo cual voy a detallar a continuacion los pasos que realice:
+
+## <font color='yellow'>***Velocidad nueva**</font>
+Realizamos la medida "*Velocidad nueva = AVERAGE(historico_velocidad_internet[Mbps (Media de bajada)])*" la cual tomará un promedio entre las velocidades
+
+## <font color='yellow'>***Velocidad anterior**</font>
+Realice la medida "*Velocidad anterior = CALCULATE([Velocidad nueva],PREVIOUSQUARTER(calendario[Date]))*"
+para obtener la comparativa entre la velocidad anterior y la nueva velocidad
+
+
+
+## <font color='yellow'>***Objetivo**</font>
+Realizamos la medida objetivo, la cual es : "*Objetivo = ([Velocidad nueva]/[Velocidad anterior]) - 1*", logrando obtener el promedio de nuestro indice de rendimiento para la fibra optica 
+
+## <font color='yellow'>***Destino**</font>
+Realizamos la medida destino, la cual es "VelocidadObjetivo = 0.15" para mostrar el posible rendimiento del 15% sobre la comparativa de trimestres, esperando observar graficamente si se cumple o no con lo solicitado 
+
+
 ¡Gracias por leer este informe!
