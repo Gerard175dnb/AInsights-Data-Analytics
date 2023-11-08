@@ -202,6 +202,7 @@ En este informe, describiré los pasos que seguí en Power BI para crear gráfic
 
 # <font color='lightgreen'>***KPI número 1 solicitado(incremento del 2% de accesos por hogar por trimestre)***</font>
 Para el siguiente KPI, nos solicitan realizar una comparativa de trimestres (trimestre actual vs trimestre siguiente) en la cual debemos denotar un incremento del 2% en el siguiente trimestre, basándonos en los accesos cada 100 hogares, la fórmula realizada es la siguiente:
+![Descripción de la imagen](https://github.com/Gerard175dnb/AInsights_PIDA/blob/main/Im%C3%A1genes/Im%C3%A1genesEDA-PowerBI/KPI_1.png?raw=true)
 
 ##  <font color='cyan'>***Calendario***</font>
 
@@ -223,7 +224,7 @@ Realizamos la medida destino, la cual es "Destino = 0.02" para mostrar el rendim
 
 
 # <font color='lightgreen'>***KPI número 2(Posible incremento del 15% en la tecnología "Fibra óptica")***</font>
-
+![Descripción de la imagen](https://github.com/Gerard175dnb/AInsights_PIDA/blob/main/Im%C3%A1genes/Im%C3%A1genesEDA-PowerBI/KPI_2.png?raw=true)
 Para el KPI que creé, investigué las tablas armadas y observé que podría ser viable un aumento del 15% en el acceso a la tecnologia "fibra optica" anual, lo cual voy a detallar a continuacion los pasos que realice:
 
 ## <font color='yellow'>***Velocidad nueva**</font>
