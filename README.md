@@ -183,12 +183,16 @@ Es importante destacar que, aunque la tendencia general es positiva, también ha
 
 En resumen, el gráfico muestra una tendencia positiva en los ingresos a lo largo del tiempo, con un crecimiento particularmente fuerte a partir de 2019. Sin embargo, también destaca la importancia de considerar las fluctuaciones trimestrales al interpretar estos datos.
 
+*En conjunto*, estos gráficos indican un progreso continuo en la infraestructura de Internet y en la adopción de tecnologías más avanzadas en Argentina a partir de 2019. Esto puede tener un impacto positivo en el acceso a la información, la comunicación y el desarrollo económico en el país. Es importante seguir monitoreando estas tendencias para garantizar que la conectividad a Internet siga siendo accesible y eficiente para todos los ciudadanos.
+
 # <font color='lightgreen'>***Conclusión***</font>
 En conclusión, gracias a los graficos proporcionados y a los datos que los crearon, podemos deducir en general una curva positiva para el avance en cuanto a la conectividad a internet dentro de la Argentina, aunque se denota una inconsistencia dentro de la equidad sobre los accesos a ciertas tecnologias, puedo que esto esté directa o indirectamente relacionado a planes políticos, densidad de población y/o demanda por provincia debido a la densidad poblacional, hay bastantes factores a tener en cuenta, el principal que se observa al principio, es la notoria diferencia entre capital federal(buenos aires), y las demás provincias para las relaciones en accesos a tecnologia, por ejemplo, muchas provincias aún cuentan con elevados valores de "Dial up", un tipo de conexion a internet "arcaica" por así decirlo, la media de provincias que tienen una red deficiente varía en cuanto mas nos alejamos de capital federal, las provincias de el sur tienen menos calidad de internet y acceso a él.
 
-Otro de los datos a añadir es la eficiente y rápida transformación de la tecnologías a una mejor calidad de acceso, "Dial up" decayó bastante en el contexto social de el "COVID-19", ésto debe suceder por la misma cuarentena que hizo que la gente utilice más sus conexiones a internet, sobretodo para estar al tanto de la situación social vivida en ese momento, se dejó denotar que hubo planes de contencion en las redes y su acceso a ellas(adjunto imagen debajo) 
+Otro de los datos a añadir es la eficiente y rápida transformación de la tecnologías a una mejor calidad de acceso, "Dial up" decayó bastante en el contexto social de el "COVID-19", ésto debe suceder por la misma cuarentena que hizo que la gente utilice más sus conexiones a internet, sobretodo para estar al tanto de la situación social vivida en ese momento, se dejó denotar que hubo planes de contencion en las redes y su acceso a ellas(adjunto imagenes debajo) 
 
-*En conjunto*, estos gráficos indican un progreso continuo en la infraestructura de Internet y en la adopción de tecnologías más avanzadas en Argentina a partir de 2019. Esto puede tener un impacto positivo en el acceso a la información, la comunicación y el desarrollo económico en el país. Es importante seguir monitoreando estas tendencias para garantizar que la conectividad a Internet siga siendo accesible y eficiente para todos los ciudadanos.
+![Descripción de la imagen](https://github.com/Gerard175dnb/AInsights_PIDA/blob/main/Im%C3%A1genes/fotosENACOM/25mar2020.png?raw=true)
 
+![Descripción de la imagen](https://github.com/Gerard175dnb/AInsights_PIDA/blob/main/Im%C3%A1genes/fotosENACOM/24mar2020.png?raw=true)
+![Descripción de la imagen](https://github.com/Gerard175dnb/AInsights_PIDA/blob/main/Im%C3%A1genes/fotosENACOM/Comparativo20_21.jpg?raw=true)
 
 ¡Gracias por leer este informe!
