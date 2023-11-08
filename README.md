@@ -243,3 +243,5 @@ Realizamos la medida destino, la cual es "VelocidadObjetivo = 0.15" para mostrar
 
 
 ¡Gracias por leer este informe!
+
+Gerardo José Cortijo Regalo - Henry DataFT16
