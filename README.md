@@ -222,7 +222,7 @@ Realizamos la medida objetivo, la cual es : "KPIobjetivo = ([Nuevo acceso]/[Acce
 Realizamos la medida destino, la cual es "Destino = 0.02" para mostrar el rendimiento del 2% sobre la comparativa de trimestres, esperando observar graficamente si se cumple o no con lo solicitado 
 
 
-# <font color='lightgreen'>***KPI número 2(Posible incremento del 15% en la tecnología "Fibra óptica"***</font>
+# <font color='lightgreen'>***KPI número 2(Posible incremento del 15% en la tecnología "Fibra óptica")***</font>
 
 Para el KPI que creé, investigué las tablas armadas y observé que podría ser viable un aumento del 15% en el acceso a la tecnologia "fibra optica" anual, lo cual voy a detallar a continuacion los pasos que realice:
 
